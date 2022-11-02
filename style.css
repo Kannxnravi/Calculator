@@ -1,11 +1,11 @@
 
 body{
-    background-image: linear-gradient(to right, #4facfe 0%, #00f2fe 100%);
+    background-image: linear-gradient(to right, #167ced 0%, #167ced 100%);
 }
 
 .col-md-6{
     margin-top: 150px !important;
-    background-image: linear-gradient(120deg, #a1c4fd 0%, #c2e9fb 100%);
+    background-image: linear-gradient(120deg, #167ced 0%, #167ced 100%);
    
 
 }
@@ -13,7 +13,7 @@ body{
 input[type=button]
 {
     width: 100%;
-    background-color: skyblue;
+    background-color: #1663be;
     color: white;
     font-weight: bolder;
     border: 2px solid black;
